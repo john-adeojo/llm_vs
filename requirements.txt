@@ -1,0 +1,2 @@
+pyautogen==0.1.14
+pyautogen[retrievechat]==0.1.14
